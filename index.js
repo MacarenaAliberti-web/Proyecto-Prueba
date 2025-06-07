@@ -11,3 +11,10 @@ function laCajaDePandora(numero) {
     return numero.toString(16);
   }
 }
+function lucia() {
+  return {
+    nombre: "Natalia",
+    edad: 25,
+    nacionalidad: "Paraguaya"
+  };
+}
