@@ -8,3 +8,11 @@ function laCajaDePandora(numero) {
     ? numero.toString(2)      // binario
     : numero.toString(16);    // hexadecimal
 }
+
+function macarena() {
+  return {
+    nombre: "Macarena",
+    edad: 31,
+    nacionalidad: "Argentina"
+  };
+}
